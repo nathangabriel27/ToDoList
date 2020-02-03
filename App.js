@@ -120,7 +120,7 @@ export default function App() {
               style={styles.Input}
               autoCorrect={true}
               placeholder="Adicione uma nova tarefa"
-              maxLength={25}
+              maxLength={50}
               placeholderTextColor="#999"
               onChangeText={text => setNewTask(text)}
               value={newTask}
@@ -157,7 +157,7 @@ const styles = StyleSheet.create({
     flexDirection: 'row',
     paddingTop: 13,
     borderTopWidth: 1,
-    borderColor: '#eee',
+    borderColor: '#959da6',
     /*     padding: 0,
         height: 60,
         alignSelf: 'stretch',
