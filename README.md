@@ -1,6 +1,5 @@
 <h1 align="center">ToDoList
 Aplicativo de lista de afazeres</h1>
-- This app was developed using React Naive + Expo.
 
 ## 💻  Apenas uma Tela.
 
@@ -9,13 +8,14 @@ Aplicativo de lista de afazeres</h1>
 
 <p align="center">
 <!-- 
+- This app was developed using React Naive + Expo.
  <img src="../demo/demo.jpeg" alt="demo1" title="demo1">
  -->
 </p>
 
-## You can download and test this app.
-https://drive.google.com/file/d/1ON_o0o57LyZStxzVqsmBSJj4qWeOa3Ty/view?usp=sharing
+## Voce pode baixar o APk pelo link:
 
+https://drive.google.com/open?id=1LUneROwyDupnszscATtpTit1zs5FrFhD
 
 ## 🎩 Dependencias do desenvolvimento
 
@@ -38,4 +38,4 @@ cd ToDoList
 yarn
 ```
 
-GoodLook.
+Obrigado!!
