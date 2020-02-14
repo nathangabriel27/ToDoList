@@ -6,6 +6,8 @@ Aplicativo de lista de afazeres</h1>
  - Um aplicativo simples de lista;
 ;
 
+<img src="./assets/demo.jpeg" alt="Demonstração">
+
 <p align="center">
 <!-- 
 - This app was developed using React Naive + Expo.

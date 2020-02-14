@@ -119,7 +119,7 @@ export default function App() {
             <TextInput
               style={styles.Input}
               autoCorrect={true}
-              placeholder="Adicione uma nova tarefa !!"
+              placeholder="Adicione uma nova tarefa."
               maxLength={50}
               placeholderTextColor="#999"
               onChangeText={text => setNewTask(text)}
